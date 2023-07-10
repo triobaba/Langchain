@@ -1,2 +1,2 @@
 # langchain
-Tutorial for langchain LLM library
+langchain LLM library
